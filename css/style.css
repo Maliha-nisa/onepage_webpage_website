@@ -214,12 +214,11 @@ h1,h2,h3,h4,h5,h6,p{
     padding-top: 15px;
 }
 .service{
-    display: inline-flex;
-    /* background: #fabd1152; */
-    background: #b1ed61;
+   display: inline-flex;
+    /* background:#fabd1152; */
+    background:#b1ed61;
     padding-bottom: 25px;
-    padding-left: 100px;
-    padding-right: 88px;
+    padding-left: 18px;
 }
 .service1{
     background:white;
@@ -284,11 +283,12 @@ h1,h2,h3,h4,h5,h6,p{
 .team{
     display: inline-flex;
     margin-top: 30px;
-    background: #fabd1152;
-    padding-left: 100px;
-    /* background: #b1ed61; */
+    background:#fabd1152;
+    padding-left: 18px;
+    /* background:#b1ed61; */
+
     padding-bottom: 45px;
-    padding-right: 88px;
+    
     
 }
 .member1{
